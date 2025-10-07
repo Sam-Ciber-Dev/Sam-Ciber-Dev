@@ -19,7 +19,7 @@ I’m deeply motivated by curiosity, purpose, and the desire to keep growing, te
 
 I’m currently focused on strengthening my skills and experience in cybersecurity through both academic and hands-on learning:
 
-- Studying for a **CTeSP in Cybersecurity** at [**ISTEC (Instituto Superior de Tecnologias Avançadas do Porto)**](https://istec-porto.pt) deepening my knowledge in network defense, vulnerability assessment, and secure systems design.  
+- Studying for a **CTeSP in Cybersecurity** at [**ISTEC (Instituto Superior de Tecnologias Avançadas do Porto)**](https://istec-porto.pt), deepening my knowledge in network defense, vulnerability assessment, and secure systems design.  
 - Completing the **ARC X Cyber Threat Intelligence 101** certification, developing skills in threat analysis, intelligence gathering, and attacker profiling.  
 - Building small tools and scripts to automate repetitive security and system administration tasks.  
 - Exploring **DevOps security** and improving secure deployment practices, infrastructure hardening, and monitoring strategies.

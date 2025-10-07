@@ -31,13 +31,13 @@ It includes my most relevant work in **cybersecurity, web development, networkin
 
 ## Contact
 
-**Email:** sam.oliveira.dev@gmail.com 
+- **Email:** sam.oliveira.dev@gmail.com 
 
-**Compose in Gmail:** [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)
+- **Compose in Gmail:** [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)
 
-**Compose in Outlook:** [Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
+- **Compose in Outlook:** [Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
 
-**LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
+- **LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
 
 ## License
 

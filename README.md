@@ -1,15 +1,37 @@
-# Hi, my name is Samuel Oliveira
+# About Samuel Oliveira
 
-**Welcome to my GitHub portfolio. Here you’ll find links to my most relevant projects in cybersecurity, web development, programming, networking, and hardware.**
+Hi,  my name is Samuel Oliveira, a cybersecurity enthusiast with a strong foundation in software development, networking, and IT systems. I’ve always been fascinated by how technology works behind the scenes, and that curiosity eventually led me to discover my passion for cybersecurity.
 
-## About Me
+## Who Am I?
 
-I’m a cybersecurity student specializing in pentesting, web security, and DevOps. With a background in software development and databases, I approach security from code to infrastructure. I build practical tools, document reproducible findings, and focus on ethical, authorized testing. I’m currently sharpening my skills in vulnerability assessment, AppSec, and network security through hands‑on projects.
+I’m a cybersecurity student with a background in programming and databases. I enjoy understanding how systems operate at every level (from application code to network infrastructure) and using that knowledge to make them more secure. I’m passionate about learning, problem-solving, and creating solutions that make technology safer for everyone.
 
-> *Note: Security-related content is for educational use in authorized environments only. Always follow legal and ethical guidelines.*
+## Why Cybersecurity?
 
+Since I was young, I’ve been curious about what happens “behind the screen.” Over time, that curiosity evolved into a genuine passion for protecting systems and people online.
+What motivates me most is the idea of helping others preventing attacks, securing data, and ensuring that technology is used responsibly and safely. For me, cybersecurity isn’t just about defense; it’s about trust, ethics, and continuous learning.
 
-## My Projects
+## What Drives Me?
+
+I’m deeply motivated by curiosity, purpose, and a desire to keep growing both technically and personally. Technology never stops evolving, and I believe neither should we. I approach every challenge as a new opportunity to learn and improve.
+
+## What Am I Working On?
+
+I’m currently focused on deepening my skills and experience in cybersecurity through both academic study and practical learning:
+
+- Studying for a CTeSP in Cybersecurity at ISTEC (Instituto Superior de Tecnologias Avançadas do Porto), expanding my knowledge in network defense, vulnerability assessment, and secure systems design.
+
+- Completing the ARC X Cyber Threat Intelligence 101 certification, developing my understanding of threat analysis, intelligence gathering, and attacker behavior.
+
+- Building small tools and scripts to automate repetitive security and system administration tasks.
+
+- Exploring DevOps security and improving my approach to secure deployments, monitoring, and infrastructure hardening.
+
+## Explore My Work
+
+If you’d like to see my technical projects, tools, and experiments, check out my main [portefolio repositor](https://github.com/Sam-Ciber-Dev/samuel-oliveira-portfolio). t includes my most relevant work in cybersecurity, web development, networking, programming, and hardware — all organized with setup notes and documentation.
+
+## Contacts
 
 **Email:** sam.oliveira.dev@gmail.com • [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A) • [Compose in Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
 

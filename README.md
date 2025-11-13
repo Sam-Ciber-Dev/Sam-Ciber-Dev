@@ -26,7 +26,7 @@ I’m currently focused on strengthening my skills and experience in cybersecuri
 
 ## Explore My Work
 
-If you’d like to explore my technical projects, tools, and experiments, visit my main [**portfolio repository**](https://github.com/Sam-Ciber-Dev/projects-index).  
+If you’d like to explore my technical projects, tools, and experiments, visit my [**projects index**](https://github.com/Sam-Ciber-Dev/projects-index).  
 It includes my most relevant work in **cybersecurity, web development, networking, programming, and hardware**, all documented with setup notes and summaries.
 You can also visit my [**personal website**](https://sam-ciber-dev.github.io) for key resources, certifications, and contact details.
 

@@ -28,6 +28,7 @@ I’m currently focused on strengthening my skills and experience in cybersecuri
 
 If you’d like to explore my technical projects, tools, and experiments, visit my main [**portfolio repository**](https://github.com/Sam-Ciber-Dev/projects-index).  
 It includes my most relevant work in **cybersecurity, web development, networking, programming, and hardware**, all documented with setup notes and summaries.
+You can also visit my [**personal website**](https://sam-ciber-dev.github.io) for portfolio highlights, certifications, and contact details.
 
 ## Contact
 
@@ -35,6 +36,7 @@ It includes my most relevant work in **cybersecurity, web development, networkin
 - **Compose in Gmail:** [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)
 - **Compose in Outlook:** [Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
 - **LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
+- **Website:** [sam-ciber-dev.github.io](https://sam-ciber-dev.github.io)
 
 ## License
 

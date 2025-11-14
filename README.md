@@ -40,7 +40,7 @@ You can also visit my [**personal website**](https://sam-ciber-dev.github.io) fo
 
 ## License
 
-This repository is licensed under the [**MIT License**](LICENSE). See LICENSE for details.
+This repository is licensed under the [**MIT License**](LICENSE). See [**LICENSE**](LICENSE) for details.
 
 ## Social Preview
 

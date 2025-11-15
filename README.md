@@ -11,6 +11,8 @@ I’m passionate about learning, solving complex problems, and developing soluti
 
 Since I was young, I’ve been curious about what happens “behind the screen.” Over time, that curiosity evolved into a genuine drive to protect systems and people online. What motivates me most is helping others by preventing attacks, safeguarding data, and ensuring that technology is used responsibly and ethically. For me, cybersecurity isn’t just about defense; it’s about **trust, ethics, and continuous learning**.
 
+**I’m particularly interested in Cyber Threat Intelligence (CTI), vulnerability analysis, and penetration testing, which are the areas I enjoy studying and exploring the most.**
+
 ## What Drives Me?
 
 I’m deeply motivated by curiosity, purpose, and the desire to keep growing, technically and personally. Technology never stops evolving, and I believe neither should we. Every challenge is a new opportunity to learn, adapt, and improve.

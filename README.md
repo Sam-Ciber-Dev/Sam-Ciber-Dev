@@ -11,7 +11,7 @@ I’m passionate about learning, solving complex problems, and developing soluti
 
 Since I was young, I’ve been curious about what happens “behind the screen.” Over time, that curiosity evolved into a genuine drive to protect systems and people online. What motivates me most is helping others by preventing attacks, safeguarding data, and ensuring that technology is used responsibly and ethically. For me, cybersecurity isn’t just about defense; it’s about **trust, ethics, and continuous learning**.
 
-**I’m particularly interested in Cyber Threat Intelligence (CTI), vulnerability analysis, and penetration testing, which are the areas I enjoy studying and exploring the most.**
+**I’m particularly interested in OSINT, Cyber Threat Intelligence (CTI), vulnerability analysis, and penetration testing, which are the areas I enjoy studying and exploring the most.**
 
 ## What Drives Me?
 
@@ -21,13 +21,11 @@ I’m deeply motivated by curiosity, purpose, and the desire to keep growing, te
 
 I’m currently focused on strengthening my skills and experience in cybersecurity through both academic and hands-on learning:
 
-- Studying for a **CTeSP in Cybersecurity** at [**ISTEC (Instituto Superior de Tecnologias Avançadas do Porto)**](https://istec-porto.pt), deepening my knowledge in network defense, vulnerability assessment, and secure systems design.  
-- Building small tools and scripts to automate repetitive security and system administration tasks.  
+- Studying for a **Bachelor's Degree in Computer Engineering** at [**ISTEC (Instituto Superior de Tecnologias Avançadas do Porto)**](https://istec-porto.pt), aimed at broadening knowledge across the technology field. A deeper understanding of how systems, networks, software and infrastructure are designed and work makes it possible to know where and how to apply cybersecurity in each situation, adapting protection to the needs of every context.
 - Exploring **DevOps security** and improving secure deployment practices, infrastructure hardening, and monitoring strategies.
 
 ## Explore My Work
 
-If you’d like to explore my technical projects, tools, and experiments, visit my [**projects index**](https://github.com/Sam-Ciber-Dev/projects-index).  
 It includes my most relevant work in **cybersecurity, web development, networking, programming, and hardware**, all documented with setup notes and summaries.
 You can also visit my [**personal website**](https://sam-ciber-dev.github.io) for key resources, certifications, and contact details.
 
